@@ -1,3 +1,2 @@
 - DAN danwk@naver.com
 - Interests lie in deep learning NLP and RL
-- Based in Gyeonggi-do, Korea / 경기도에 거주중
